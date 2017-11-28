@@ -2,9 +2,4 @@ theme: jekyll-theme-minimal
 title: Kenan
 description: A student in commputer scinece. Love CV, ML, CG. Love gaming
 include: ["_pages"]
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      permalink: /:title/
+permalink: /:title/
