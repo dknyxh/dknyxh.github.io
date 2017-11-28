@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blogging Like a Hacker
+title: aboutme
 ---
 # Test
 - i can see this
