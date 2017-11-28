@@ -17,11 +17,12 @@
       <header>
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <p class="view"><a href=>Educations</a></p>
-          <p class="view"><a href=>Experiences</a></p>
-          <p class="view"><a href=>Projects</a></p>
-          <p class="view"><a href=>AboutMe</a></p>
-
+        <ul>
+          <li><p class="view"><a href=>Educations</a></p></li>
+          <li><p class="view"><a href=>Experiences</a></p></li>
+          <li><p class="view"><a href=>Projects</a></p></li>
+          <li><p class="view"><a href=>AboutMe</a></p></li>
+        </ul>
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
