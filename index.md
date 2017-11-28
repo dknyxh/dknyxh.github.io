@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+I am a fifth year undergraduate student at University of Toronto. My major is computer sciene and I am most interested in computer vision, machine learning and computer graphics. I like how we extract information from just images and I love the way we model the various properties of a single image. I believe the computer can see the world in an unconventional way which in turn give us a better understanding of the world.
 
-You can use the [editor on GitHub](https://github.com/dknyxh/dknyxh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Checkout my experiences and some projects I did here:
+Also you want to know more about me in my free time, checkout here:
+
+
 
 ### Markdown
 
@@ -27,11 +29,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dknyxh/dknyxh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

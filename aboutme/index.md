@@ -3,6 +3,13 @@ layout: default
 title: aboutme
 permalink:/aboutme/
 ---
-# Test
-- i can see this
+# About Me
+I am a computer science student studying in University of Toronto. In my spare time, I like playing video games and watch movies.
+Here's my playtime wordcloud from my steam library.
+
+Here's my list of favourite movies:
+
+Here's 
+
+
 

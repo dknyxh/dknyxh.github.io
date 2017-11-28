@@ -1,6 +1,7 @@
 ---
 layout: default
-title: experiences
+title: educations
+permalink:/educations/
 ---
 # Test
 - i can see this
