@@ -17,5 +17,5 @@ You can find more information here:
 [official site](http://dnf.pmgenomics.ca)
 
 The paper was published on cancer research here:
-Nehme El-Hachem, Deena M.A. Gendoo, Laleh Soltan Ghoraie, Zhaleh Safikhani, Petr Smirnov, Chung C., Kenan Deng, Ailsa Fang, Erin Birkwood, Chantal Ho, Ruth Isserlin, Gary D. Bader, Anna Goldenberg, Benjamin Haibe-Kains. Integrative pharmacogenomics to infer large-scale drug taxonomy. Cancer Research. 2017.[link](http://cancerres.aacrjournals.org/content/early/2017/03/17/0008-5472.CAN-17-0096)
+*Nehme El-Hachem, Deena M.A. Gendoo, Laleh Soltan Ghoraie, Zhaleh Safikhani, Petr Smirnov, Chung C., Kenan Deng, Ailsa Fang, Erin Birkwood, Chantal Ho, Ruth Isserlin, Gary D. Bader, Anna Goldenberg, Benjamin Haibe-Kains. Integrative pharmacogenomics to infer large-scale drug taxonomy. Cancer Research. 2017.[link](http://cancerres.aacrjournals.org/content/early/2017/03/17/0008-5472.CAN-17-0096)*
 
