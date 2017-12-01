@@ -4,7 +4,7 @@ title: experiences
 permalink: /experiences/research/episcan
 ---
 # Episcan3D
-![prototype](/assets/episcan3.JPG)
+![prototype](/assets/episcan3.png)
 *prototype*
 
 ![ambientlight](/assets/episcan2.png)
